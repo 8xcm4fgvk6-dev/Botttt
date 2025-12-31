@@ -1,1 +1,5 @@
+pip>=23.1
+setuptools>=65.5
+wheel
 aiogram==2.25.1
+aiohttp==3.8.4
